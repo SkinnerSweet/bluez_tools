@@ -1,0 +1,5 @@
+<map id="routine_data_t" name="routine_data_t">
+<area shape="rect" id="node2" href="$structl2cap__server__t.html" title="l2cap_server_t" alt="" coords="82,95,189,121"/>
+<area shape="rect" id="node3" href="$structl2cap__socket__t.html" title="l2cap_socket_t" alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node4" href="$structl2cap__client__proxy__t.html" title="l2cap_client_proxy_t" alt="" coords="141,5,282,32"/>
+</map>
